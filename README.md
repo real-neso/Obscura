@@ -5,7 +5,7 @@ This directory contains the open-source client for Obscura.
 ## Architecture
 
 The project is divided into two parts:
-1. **obscura-open**: This repository. Contains UI, ViewModels, and high-level Network logic.
+1. **obscura-open**: This repository. Contains UI, ViewModels, and Network logic.
 2. **obscura-private**: (Private) Contains sensitive cryptographic implementations and native security code.
 
 ## ObscuraEngine
